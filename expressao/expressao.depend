@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1615407655 source:d:\temp\expressao\fila.c
+	<stdio.h>
+	<stdlib.h>
+	"TADs_pilha_fila_aloc_enc.h"
+
+1615407626 d:\temp\expressao\tads_pilha_fila_aloc_enc.h
+
+1615407852 source:d:\temp\expressao\main.c
+	<stdio.h>
+	<stdlib.h>
+	"TADs_pilha_fila_aloc_enc.h"
+
+1615407695 source:d:\temp\expressao\pilha.c
+	<stdio.h>
+	<stdlib.h>
+	"TADs_pilha_fila_aloc_enc.h"
+

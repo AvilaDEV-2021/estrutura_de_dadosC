@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1615404621 source:d:\temp\polinomio\main.c
+	<stdio.h>
+	<stdlib.h>
+	"TAD_lista_aloc_enc.h"
+
+1615404590 d:\temp\polinomio\tad_lista_aloc_enc.h
+
+1615404632 source:\\laptop-ljdg36v4\_bot\particao 2\eugenio\cursos\unicarioca\disciplinas\metodologia_ativa\estrutura_dados\trabalhos\polinomio\lista.c
+	<stdio.h>
+	<stdlib.h>
+	"TAD_lista_aloc_enc.h"
+
+1615404590 \\laptop-ljdg36v4\_bot\particao 2\eugenio\cursos\unicarioca\disciplinas\metodologia_ativa\estrutura_dados\trabalhos\polinomio\tad_lista_aloc_enc.h
+
+1615404621 source:\\laptop-ljdg36v4\_bot\particao 2\eugenio\cursos\unicarioca\disciplinas\metodologia_ativa\estrutura_dados\trabalhos\polinomio\main.c
+	<stdio.h>
+	<stdlib.h>
+	"TAD_lista_aloc_enc.h"
+
+1615404632 source:c:\users\victor avila\desktop\arquivos c\polinomio\lista.c
+	<stdio.h>
+	<stdlib.h>
+	"TAD_lista_aloc_enc.h"
+
+1615404590 c:\users\victor avila\desktop\arquivos c\polinomio\tad_lista_aloc_enc.h
+
+1615404621 source:c:\users\victor avila\desktop\arquivos c\polinomio\main.c
+	<stdio.h>
+	<stdlib.h>
+	"TAD_lista_aloc_enc.h"
+
