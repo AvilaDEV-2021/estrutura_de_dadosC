@@ -1,0 +1,56 @@
+# depslib dependency file v1.0
+1615404621 source:d:\temp\polinomio\main.c
+	<stdio.h>
+	<stdlib.h>
+	"TAD_lista_aloc_enc.h"
+
+1615404590 d:\temp\polinomio\tad_lista_aloc_enc.h
+
+1615404632 source:\\laptop-ljdg36v4\_bot\particao 2\eugenio\cursos\unicarioca\disciplinas\metodologia_ativa\estrutura_dados\trabalhos\polinomio\lista.c
+	<stdio.h>
+	<stdlib.h>
+	"TAD_lista_aloc_enc.h"
+
+1615404590 \\laptop-ljdg36v4\_bot\particao 2\eugenio\cursos\unicarioca\disciplinas\metodologia_ativa\estrutura_dados\trabalhos\polinomio\tad_lista_aloc_enc.h
+
+1615404621 source:\\laptop-ljdg36v4\_bot\particao 2\eugenio\cursos\unicarioca\disciplinas\metodologia_ativa\estrutura_dados\trabalhos\polinomio\main.c
+	<stdio.h>
+	<stdlib.h>
+	"TAD_lista_aloc_enc.h"
+
+1615404632 source:c:\users\victor avila\desktop\arquivos c\copias\polinomio\lista.c
+	<stdio.h>
+	<stdlib.h>
+	"TAD_lista_aloc_enc.h"
+
+1618581621 c:\users\victor avila\desktop\arquivos c\copias\polinomio\tad_lista_aloc_enc.h
+
+1618581293 source:c:\users\victor avila\desktop\arquivos c\copias\polinomio\main.c
+	<stdio.h>
+	<stdlib.h>
+	"TAD_lista_aloc_enc.h"
+
+1615404632 source:c:\users\victor avila\desktop\polinomio\lista.c
+	<stdio.h>
+	<stdlib.h>
+	"TAD_lista_aloc_enc.h"
+
+1618581621 c:\users\victor avila\desktop\polinomio\tad_lista_aloc_enc.h
+
+1618615638 source:c:\users\victor avila\desktop\polinomio\main.c
+	<stdio.h>
+	<stdlib.h>
+	"TAD_lista_aloc_enc.h"
+
+1615404632 source:c:\users\victor avila\desktop\polinomio - testes\lista.c
+	<stdio.h>
+	<stdlib.h>
+	"TAD_lista_aloc_enc.h"
+
+1618581621 c:\users\victor avila\desktop\polinomio - testes\tad_lista_aloc_enc.h
+
+1618621385 source:c:\users\victor avila\desktop\polinomio - testes\main.c
+	<stdio.h>
+	<stdlib.h>
+	"TAD_lista_aloc_enc.h"
+

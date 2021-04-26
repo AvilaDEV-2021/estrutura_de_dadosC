@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1615407655 source:d:\temp\expressao\fila.c
+	<stdio.h>
+	<stdlib.h>
+	"TADs_pilha_fila_aloc_enc.h"
+
+1615407626 d:\temp\expressao\tads_pilha_fila_aloc_enc.h
+
+1615407852 source:d:\temp\expressao\main.c
+	<stdio.h>
+	<stdlib.h>
+	"TADs_pilha_fila_aloc_enc.h"
+
+1615407695 source:d:\temp\expressao\pilha.c
+	<stdio.h>
+	<stdlib.h>
+	"TADs_pilha_fila_aloc_enc.h"
+
+1615407655 source:c:\users\victor avila\desktop\expressao - testes\fila.c
+	<stdio.h>
+	<stdlib.h>
+	"TADs_pilha_fila_aloc_enc.h"
+
+1615407626 c:\users\victor avila\desktop\expressao - testes\tads_pilha_fila_aloc_enc.h
+
+1615407695 source:c:\users\victor avila\desktop\expressao - testes\pilha.c
+	<stdio.h>
+	<stdlib.h>
+	"TADs_pilha_fila_aloc_enc.h"
+
+1618626204 source:c:\users\victor avila\desktop\expressao - testes\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"TADs_pilha_fila_aloc_enc.h"
+
