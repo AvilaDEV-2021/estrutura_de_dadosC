@@ -1,0 +1,21 @@
+------------------
+  Árvore Binária
+------------------
+
+
+   b
+      d
+a
+      e
+   c
+      f
+
+Qual nó gostaria de saber a altura ? d
+
+
+d
+
+A altura do nó é: 1
+
+Process returned 0 (0x0)   execution time : 7.985 s
+Press any key to continue.
