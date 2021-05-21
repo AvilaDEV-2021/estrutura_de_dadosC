@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1592616073 source:c:\users\victor avila\desktop\exemplo_1\arvore_binaria.c
+	<stdio.h>
+	<stdlib.h>
+	"TAD_arvore_binaria_aloc_enc.h"
+
+1592616064 c:\users\victor avila\desktop\exemplo_1\tad_arvore_binaria_aloc_enc.h
+
+1613491248 source:c:\users\victor avila\desktop\exemplo_1\fila.c
+	<stdio.h>
+	<stdlib.h>
+	"TAD_arvore_binaria_aloc_enc.h"
+
+1620349866 source:c:\users\victor avila\desktop\exemplo_1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"TAD_arvore_binaria_aloc_enc.h"
+
+1613491214 source:c:\users\victor avila\desktop\exemplo_1\pilha.c
+	<stdio.h>
+	<stdlib.h>
+	"TAD_arvore_binaria_aloc_enc.h"
+
+1592616073 source:c:\users\victor avila\desktop\arquivos c\copias\exemplo_1_tema7\arvore_binaria.c
+	<stdio.h>
+	<stdlib.h>
+	"TAD_arvore_binaria_aloc_enc.h"
+
+1592616064 c:\users\victor avila\desktop\arquivos c\copias\exemplo_1_tema7\tad_arvore_binaria_aloc_enc.h
+
+1613491248 source:c:\users\victor avila\desktop\arquivos c\copias\exemplo_1_tema7\fila.c
+	<stdio.h>
+	<stdlib.h>
+	"TAD_arvore_binaria_aloc_enc.h"
+
+1620349866 source:c:\users\victor avila\desktop\arquivos c\copias\exemplo_1_tema7\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"TAD_arvore_binaria_aloc_enc.h"
+
+1613491214 source:c:\users\victor avila\desktop\arquivos c\copias\exemplo_1_tema7\pilha.c
+	<stdio.h>
+	<stdlib.h>
+	"TAD_arvore_binaria_aloc_enc.h"
+
