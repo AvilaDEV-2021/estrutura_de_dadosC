@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1613492568 source:c:\users\victor avila\desktop\exemplo_2\arvore_binaria_busca.c
+	<stdio.h>
+	<stdlib.h>
+	"TAD_arvore_binaria_busca.h"
+
+1604546154 c:\users\victor avila\desktop\exemplo_2\tad_arvore_binaria_busca.h
+
+1622860676 source:c:\users\victor avila\desktop\exemplo_2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"TAD_arvore_binaria_busca.h"
+
+1622861806 source:c:\users\victor avila\desktop\exemplo_2\main_2.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"TAD_arvore_binaria_busca.h"
+
