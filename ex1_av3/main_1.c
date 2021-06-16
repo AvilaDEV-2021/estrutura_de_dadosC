@@ -34,7 +34,7 @@ int main(void)
     printf("  Pilha\n");
     printf("---------\n");
 
-	TipoPilha *pilha = (TipoPilha *)malloc(sizeof(TipoPilha));
+    TipoPilha *pilha = (TipoPilha *)malloc(sizeof(TipoPilha));
 
 	int N = 1;
     int *p = malloc(N*sizeof(int));
