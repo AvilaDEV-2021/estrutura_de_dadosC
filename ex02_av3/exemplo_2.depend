@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1613490814 source:c:\users\victor avila\desktop\ex02_av3\fila.c
+	<stdio.h>
+	<stdlib.h>
+	"TADs_lineares_aloc_enc.h"
+
+1421782358 c:\users\victor avila\desktop\ex02_av3\tads_lineares_aloc_enc.h
+
+1613490883 source:c:\users\victor avila\desktop\ex02_av3\lista.c
+	<stdio.h>
+	<stdlib.h>
+	"TADs_lineares_aloc_enc.h"
+
+1613490901 source:c:\users\victor avila\desktop\ex02_av3\pilha.c
+	<stdio.h>
+	<stdlib.h>
+	"TADs_lineares_aloc_enc.h"
+
+1623874258 source:c:\users\victor avila\desktop\ex02_av3\main.c
+	<stdio.h>
+	<stdlib.h>
+	"TADs_lineares_aloc_enc.h"
+
